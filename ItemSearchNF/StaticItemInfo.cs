@@ -193,6 +193,7 @@ namespace ItemSearch
         Weapon,
         JadeBotCore,
         JadeBotChip,
+        JadeBotModule,
     }
 
     public enum ItemSubType
