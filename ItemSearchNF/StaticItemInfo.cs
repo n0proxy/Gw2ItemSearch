@@ -191,9 +191,8 @@ namespace ItemSearch
         Trophy,
         UpgradeComponent,
         Weapon,
-        JadeBotCore,
-        JadeBotChip,
-        JadeBotModule,
+        PowerCore,
+        JadeTechModule,
     }
 
     public enum ItemSubType
